@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/Lesson1/MainPage.xaml) (VB: [MainPage.xaml](./VB/Lesson1/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/Lesson1/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Lesson1/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Lesson1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Lesson1/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight - Getting Started - Lesson 1 - Create a Simple Rich Text Editor
 
